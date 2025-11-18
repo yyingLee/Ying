@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px;
   height: 70px;
   margin-right: 40px;
-  background-image: url(../images/logo.png);
+  background-image: url(../images/LOGO.png);
 }
 .header h1 a{
   display: block;
@@ -644,4 +644,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 .copyright p{
   margin-bottom: 10px;
+
 }
