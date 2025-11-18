@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25950",
+      "name": "小箭头",
+      "font_class": "xiaojiantou",
+      "unicode": "f004d",
+      "unicode_decimal": 983117
+    },
+    {
+      "icon_id": "577345",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "666888",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "8705003",
+      "name": "MBE风格多色图标-购物车",
+      "font_class": "MBEfenggeduosetubiao-gouwuche",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "10531493",
+      "name": "返回顶部箭头",
+      "font_class": "fanhuidingbujiantou",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
